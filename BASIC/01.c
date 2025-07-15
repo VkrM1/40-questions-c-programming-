@@ -1,4 +1,4 @@
-// 1. Write a C program to print “Hello, World!”
+// 1. Write a C program to print â€œHello, World!â€
 
 #include <stdio.h> //standard input output header file
 int main(){
